@@ -230,7 +230,7 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan1 iskandar wa.me/+60136670107' ,MessageType.text);
+conn.sendMessage(id, 'kawan1 rizky wa.me/6288292030664' ,MessageType.text);
 }
 else if (text == '.coowner'){
 conn.sendMessage(id, 'kawan2 testing script http://wa.me/6288292030664' ,MessageType.text);
